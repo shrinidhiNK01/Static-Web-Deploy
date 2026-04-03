@@ -4,3 +4,7 @@ body{
 p{
     color: chocolate;
 }
+.super{
+    color: cyan;
+    text-align: center;
+}
