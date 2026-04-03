@@ -1,0 +1,4 @@
+Static Website deploymnet ->
+=============================
+push all ur codes to github ->settings ->Pages ->Branch=master ->save ->
+click on right mark->details->deploy->complete job->click on url 
